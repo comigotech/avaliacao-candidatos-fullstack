@@ -2,6 +2,7 @@
 - Documente
 - Mostre a sua linha de reciocínio
 - Trabalhe bem o seu README.md
+- Utilize TYPESCRIPT
 ### Como você deverá desenvolver?
 1. Faça um repositório público no seu github com o título: "avaliação-candidatos-comigo"
 3. Realize as implementações de acordo com cada um dos níveis
